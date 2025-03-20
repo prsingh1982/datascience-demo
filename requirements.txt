@@ -1,5 +1,4 @@
 pytest
-pylint
 jupyter
 pytest-cov
 pandas
